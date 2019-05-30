@@ -1,6 +1,5 @@
 # Headliner
-SmartBanker is an informative mobile application that lets your clients view information about their banks & learn to make their banking easier and faster. 
-
+Headliner is progressive web application that gets recent news headlines from an API, it allows users to 'like' their favourite headlines to save them under their 'favourites' tab and users can also share their favourite headlines to their social media platforms.
 
 ## Tech/framework used
  <b>Built with:</b>
