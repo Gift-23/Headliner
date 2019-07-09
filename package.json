@@ -71,11 +71,13 @@
     "typescript": "~3.1.6",
     "tar": ">=2.2.2"
   },
-  "description": "An Ionic project",
+  "description": "A headlines app similar to google news",
   "cordova": {
     "plugins": {
       "cordova-plugin-inappbrowser": {},
-      "cordova-plugin-x-socialsharing": {},
+      "cordova-plugin-x-socialsharing": {
+        "ANDROID_SUPPORT_V4_VERSION": "24.1.1+"
+      },
       "cordova-plugin-whitelist": {},
       "cordova-plugin-statusbar": {},
       "cordova-plugin-device": {},
